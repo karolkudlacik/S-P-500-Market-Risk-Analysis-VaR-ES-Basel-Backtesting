@@ -9,7 +9,7 @@ Historical VaR · Expected Shortfall (97.5%) · a simplified FRTB IMA-style capi
 
 ---
 
-[S&P-500 project](SP500_analysis.md)
+[View code (markdown from R)](SP500_analysis.md) (PL)
 
 ## Overview
 
